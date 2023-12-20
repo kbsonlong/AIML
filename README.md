@@ -1,2 +1,2 @@
-# statistic
-collecting books, papers and docs.
+# AIML
+机器学习、人工智能方向电子书籍
